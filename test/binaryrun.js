@@ -1,7 +1,7 @@
 var should = require('chai').should(),
-    binaryruns = require('../binaryrun.min.js'),
-    makeString = binaryruns.makeString,
-    makeArray = binaryruns.makeArray;
+    binaryrun = require('../binaryrun.min.js'),
+    makeString = binaryrun.makeString,
+    makeArray = binaryrun.makeArray;
 
 describe('#makeString', function() {
     it('empty case', function() {
