@@ -1,0 +1,30 @@
+{
+  "name": "binaryrun",
+  "version": "1.0.0",
+  "description": "Create binary strings/arrays based on length of runs",
+  "main": "binaryrun.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DimitriWalters/binaryrun.git"
+  },
+  "keywords": [
+    "binary",
+    "string",
+    "array",
+    "run",
+    "length"
+  ],
+  "author": "Dimitri Walters <me@dimi.io> (http://dimi.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DimitriWalters/binaryrun/issues"
+  },
+  "homepage": "https://github.com/DimitriWalters/binaryrun",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
