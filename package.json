@@ -2,10 +2,8 @@
   "name": "binaryrun",
   "version": "1.0.0",
   "description": "Create binary strings/arrays based on length of runs",
-  "main": "binaryrun.js",
-  "scripts": {
-    "test": "make test"
-  },
+  "main": "binaryrun.cjs",
+  "module": "binaryrun.mjs",
   "repository": {
     "type": "git",
     "url": "https://github.com/DimitriWalters/binaryrun.git"
