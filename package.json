@@ -1,6 +1,6 @@
 {
   "name": "binaryrun",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "Create binary strings/arrays based on length of runs",
   "main": "binaryrun.cjs",
   "module": "binaryrun.mjs",
